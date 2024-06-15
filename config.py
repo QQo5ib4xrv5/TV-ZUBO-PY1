@@ -1,17 +1,19 @@
 source_file = "demo.txt"
 final_file = "result.txt"
 favorite_list = [
-    "广东珠江",
+    "河南卫视",
     "CCTV-1",
+    "CCTV-2",
+    "CCTV-3",
+    "CCTV-4",
     "CCTV-5",
-    "CCTV-5+",
-    "CCTV-13",
-    "广东体育",
-    "广东卫视",
-    "大湾区卫视",
-    "浙江卫视",
-    "湖南卫视",
-    "翡翠台",
+    "CCTV-6",
+    "CCTV-7",
+    "CCTV-8",
+    "CCTV-9",
+    "CCTV-10",
+    "CCTV-11",
+    "CCTV-12"
 ]
 open_online_search = True
 favorite_page_num = 5
@@ -21,7 +23,7 @@ open_sort = True
 response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 30
-ipv_type = "ipv4"
+ipv_type = "all"
 domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
